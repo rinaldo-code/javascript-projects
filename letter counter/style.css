@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Monteserrat', sans-serif;
+}
+
+body{
+    margin: 0 auto;
+    background: #fa4242;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    min-width: 400px;
+}
+
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 5rem;
+    text-transform: uppercase;
+    line-height: 1.1;
+    text-align: center;
+    color: #013034;
+}
+
+.input-wrapper{
+    margin: 5rem 0;
+}
+
+.input-wrapper > div{
+    margin-top: .5rem;
+    color: #fff;
+}
+
+input{
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    border: none;
+}
+
+h3{
+    text-transform: uppercase;
+    color: #013034;
+}
