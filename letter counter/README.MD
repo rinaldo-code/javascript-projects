@@ -1,2 +1,2 @@
-#Letter Counter
+# Letter Counter
 ![screenshot](screenshot.PNG)
