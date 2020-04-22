@@ -1,5 +1,5 @@
 # Memory Game
-![screenshot](images/screenshot.png)
+![screenshot](images/screenshot.PNG)
 
 ## Rules of Memory Game
 - You will start by flipping over one card
