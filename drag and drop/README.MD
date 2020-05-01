@@ -1,2 +1,2 @@
 # Drag & Drop
-![screenshot](screenshotv1.PNG)
+![screenshot](screenshotv1.png)
